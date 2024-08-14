@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejemplorepo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fae47ca93e89f9684a83b16b2b89bf7e284f64d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d0bafc54baf8c95f3c1060b6e3c7924428950bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejemplorepo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejemplorepo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
